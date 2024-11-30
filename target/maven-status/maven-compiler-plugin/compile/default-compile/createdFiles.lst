@@ -1,0 +1,9 @@
+com\mycompany\todo\interfaces\TaskInterface.class
+com\mycompany\todo\components\Task.class
+com\mycompany\todo\AppController.class
+com\mycompany\todo\components\UIController$1$1.class
+com\mycompany\todo\interfaces\TaskManagerInterface.class
+com\mycompany\todo\TODO.class
+com\mycompany\todo\components\UIController$1.class
+com\mycompany\todo\components\UIController.class
+com\mycompany\todo\components\TaskManagerImpl.class
